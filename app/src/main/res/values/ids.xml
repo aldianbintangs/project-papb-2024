@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statusBar" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="backButton" type="id" />
+    <item name="titleEditText" type="id" />
+    <item name="noteContentEditText" type="id" />
+    <item name="bottomBar" type="id" />
+    <item name="lastEditedText" type="id" />
+    <item name="boldButton" type="id" />
+    <item name="italicButton" type="id" />
+    <item name="listButton" type="id" />
+    <item name="checklistButton" type="id" />
+    <item name="uploadImageButton" type="id" />
+    <item name="moreOptionsButton" type="id" />
+</resources>

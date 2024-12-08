@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414634733514",
+    "project_id": "notedifycreatenotes",
+    "storage_bucket": "notedifycreatenotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414634733514:android:42ebd4865c0b4600de6933",
+        "android_client_info": {
+          "package_name": "ap.mobile.notedifywithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfytq-O3nL1JeP-PWPz6cgLUvdcsb89D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
